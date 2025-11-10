@@ -49,3 +49,6 @@ python number_reverse.py
 ---
 
 **Author:** [@g3raldatsc](https://github.com/g3raldatsc)
+<p align="center">
+  <img src="https://media.tenor.com/OlQRbKJiRdwAAAAM/yui-k-on.gif" width="200" alt="Anime Gif">
+</p>
